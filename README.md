@@ -41,8 +41,14 @@ If you think people hiring you check whether you commit to GitHub regularly as a
    - Let your **ghost repo** handle the rest while you focus on real work or just enjoy life!
 
 7. **Optional:**
-   - Schedule this helper script in crontab to run once daily (e.g., at midnight):
-     `0 0 * * * /path/to/your/randomize_cron.sh`
+   - Schedule this helper script in crontab by running:
+   ```bash
+   crontab -e
+   ```
+   - to run once daily (e.g., at midnight):
+     ```bash
+     0 0 * * * /path/to/your/randomize_cron.sh
+     ```
 ---
 
 ### **Disclaimer**
