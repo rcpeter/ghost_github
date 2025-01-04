@@ -1,7 +1,7 @@
 
 # Ghost GitHub Repo
 
-### **Why This Exists**
+### **Why This Exists - FOR SATIRE.**
 If you think people hiring you check whether you commit to GitHub regularly as a metric for deciding whether you’re worth hiring or not—they deserve to get wrecked. This repository allows you to set up a **ghost GitHub repo** that automates commits at random intervals, making it look like you're a dedicated coder always active on GitHub.
 
 ---
@@ -54,6 +54,7 @@ If you think people hiring you check whether you commit to GitHub regularly as a
 ### **Disclaimer**
 - This project is intended for satirical purposes and should not replace genuine coding and contributions.
 - If you feel the need to use this, consider whether the hiring practices you’re facing align with your values.
+- If running this on mac: https://apple.stackexchange.com/questions/402132/cronjobs-do-not-run
 
 ---
 
